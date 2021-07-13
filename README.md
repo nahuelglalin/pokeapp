@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# PokeApp
+
+https://nahuelglalin.github.io/pokeapp/
+
+React app using Redux, Hooks, Routers, Context API, Firestore, Authentications. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
